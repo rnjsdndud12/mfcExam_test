@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Projects\\mfcExam\\gSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|C:\\Projects\\mfcExam\\gSolution\\gPrj\\CDlgImage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|solutionrelative:gPrj\\CDlgImage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|C:\\Projects\\mfcExam\\gSolution\\gPrj\\gPrjDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|solutionrelative:gPrj\\gPrjDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|C:\\Projects\\mfcExam\\gSolution\\gPrj\\CDlgImage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|solutionrelative:gPrj\\CDlgImage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|C:\\Projects\\mfcExam\\gSolution\\gPrj\\CDlgImage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "gPrjDlg.cpp",
               "DocumentMoniker": "C:\\Projects\\mfcExam\\gSolution\\gPrj\\gPrjDlg.cpp",
               "RelativeDocumentMoniker": "gPrj\\gPrjDlg.cpp",
               "ToolTip": "C:\\Projects\\mfcExam\\gSolution\\gPrj\\gPrjDlg.cpp",
               "RelativeToolTip": "gPrj\\gPrjDlg.cpp",
-              "ViewState": "AgIAAL4AAAAAAAAAAAAhwNkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAALUAAAAAAAAAAAAhwNAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-01T11:24:42.634Z",
               "EditorCaption": ""
@@ -75,13 +75,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CDlgImage.cpp",
               "DocumentMoniker": "C:\\Projects\\mfcExam\\gSolution\\gPrj\\CDlgImage.cpp",
               "RelativeDocumentMoniker": "gPrj\\CDlgImage.cpp",
               "ToolTip": "C:\\Projects\\mfcExam\\gSolution\\gPrj\\CDlgImage.cpp",
               "RelativeToolTip": "gPrj\\CDlgImage.cpp",
-              "ViewState": "AgIAAC8AAAAAAAAAAADwv1IAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAADwv0kAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-01T11:26:10.551Z",
               "EditorCaption": ""
